@@ -1,7 +1,7 @@
 <html>
  
 <body>
-  <h1>Hi Friend!</h1>
+  <h1>Hey there Dude!</h1>
   <p>Welcome to my website!</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
