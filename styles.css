@@ -57,7 +57,7 @@ a {
   font-weight: normal; 
 }
 .project-grid {
-  width: 100%;
+  width: 75%;
   display: inline-flex; 
   justify-content: space-around;
 }
